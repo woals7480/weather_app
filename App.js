@@ -81,7 +81,10 @@ export default function App() {
                 }}
               >
                 <Text style={{ fontSize: 40, color: "white" }}>
-                  {month + 1}/{day + index} {dates[date + index]}
+                  {month + 1}/{date + index}{" "}
+                  {day + index < 7
+                    ? dates[day + index]
+                    : dates[(day + index) % 7]}
                 </Text>
               </View>
               <View

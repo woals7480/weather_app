@@ -7,8 +7,8 @@
     "index.html": "/weather_app/index.html",
     "favicon-32.png": "/weather_app/favicon-32.png",
     "favicon-16.png": "/weather_app/favicon-16.png",
-    "serve.json": "/weather_app/serve.json",
     "manifest.json": "/weather_app/manifest.json",
+    "serve.json": "/weather_app/serve.json",
     "main.9fed5548.js.map": "/weather_app/static/js/main.9fed5548.js.map",
     "536.631218ee.js.map": "/weather_app/static/js/536.631218ee.js.map"
   },

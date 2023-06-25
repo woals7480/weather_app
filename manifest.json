@@ -2,8 +2,8 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "my-app",
-  "short_name": "my-app",
+  "name": "react-native-weather",
+  "short_name": "react-native-weather",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait"
 }
